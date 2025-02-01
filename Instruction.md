@@ -6,6 +6,8 @@ Dengan cara melihat update ke commit log.
 Lalu untuk update backend postgreSQL Supabase, bisa melihat ke schema.sql
 dan untuk Update Progress tracker, bisa melihat ke To Do Next.md
 
+Dan setiap melakukan update, wajib update juga ke file tersebut, lengkap dengan log nya.
+
 Semua file ini berada di main dir.
 
 # Dokumentasi Flow Journey CRM App - Auth & Role Staging
